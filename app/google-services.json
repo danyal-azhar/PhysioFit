@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398912398852",
+    "firebase_url": "https://physiofit-1d73b.firebaseio.com",
+    "project_id": "physiofit-1d73b",
+    "storage_bucket": "physiofit-1d73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398912398852:android:ad51084781f9e2bdbbf751",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.posenet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398912398852-42v5ibhvc1p4ajb13ft593s928fkt4ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.posenet",
+            "certificate_hash": "76c3393e40743dcb476a350abdcd6116d6b1594b"
+          }
+        },
+        {
+          "client_id": "398912398852-1nr8geas64pr1kru7rpi20bd80gs7pea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-gct8nLKYS4qh5HzpHXk_3pnrEJUnWdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398912398852-1nr8geas64pr1kru7rpi20bd80gs7pea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

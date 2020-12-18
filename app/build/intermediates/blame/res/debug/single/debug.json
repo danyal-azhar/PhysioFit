@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rounded_edittext.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\rounded_edittext.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_2.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\gradient_2.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_list.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\gradient_list.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_action_info.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logogogo.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable\\logogogo.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_roundbutton.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\roundbutton.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_posenet.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_posenet.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable\\action.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_3.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\gradient_3.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_action_info.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_1.xml.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\drawable-v24\\gradient_1.xml"
+    },
+    {
+        "merged": "D:\\Fyp1-final\\android\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Fyp1-final\\android\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

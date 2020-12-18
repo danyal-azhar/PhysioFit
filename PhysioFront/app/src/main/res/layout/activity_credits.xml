@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background_dotted"
+    tools:context="com.balychev.tripleimpact.CreditsActivity">
+
+    <ImageView
+        android:id="@+id/c_header_image"
+        android:layout_width="200sp"
+        android:layout_height="40sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/credits" />
+
+    <TextView
+        android:id="@+id/thank_you_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/c_header_image"
+        android:text="@string/thank_you1"
+        android:textColor="#ffffff"
+        android:textSize="18dip"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/thank_you_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dip"
+        android:layout_below="@+id/thank_you_text"
+        android:text="@string/thank_you2"
+        android:textColor="#ffffff"
+        android:textSize="15dip"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/thank_you_text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="false"
+        android:layout_margin="5dip"
+        android:layout_below="@+id/thank_you_text2"
+        android:text="maxbalychev@gmail.com"
+        android:textColor="#ffffff"
+        android:textSize="15dip"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/thank_you_text4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dip"
+        android:layout_marginBottom="15dip"
+        android:layout_below="@+id/thank_you_text3"
+        android:text="@string/thank_you3"
+        android:textColor="#ffffff"
+        android:textSize="15dip"
+        android:textStyle="normal" />
+
+    <ImageView
+        android:id="@+id/boogoogoo_icon"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/thank_you_text4"
+        android:layout_margin="12dp"
+        android:contentDescription=""
+        android:src="@drawable/boogoogoo_icon"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:id="@+id/boogoogoo_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@+id/boogoogoo_icon"
+        android:layout_alignTop="@+id/boogoogoo_icon"
+        android:text="@string/boogoogoo"
+        android:textColor="#ffffff"
+        android:textSize="15dip"
+        android:textStyle="normal" />
+    <ImageView
+        android:id="@+id/sicknesstracker_icon"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/boogoogoo_icon"
+        android:layout_margin="12dp"
+        android:contentDescription=""
+        android:src="@drawable/sicknesstracker_icon"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:id="@+id/sicknesstracker_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@+id/sicknesstracker_icon"
+        android:layout_alignTop="@+id/sicknesstracker_icon"
+        android:text="@string/sicknesstracker"
+        android:textColor="#ffffff"
+        android:textSize="15dip"
+        android:textStyle="normal" />
+
+    <ImageView
+        android:id="@+id/eventscalendar_icon"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/sicknesstracker_icon"
+        android:layout_margin="12dp"
+        android:contentDescription=""
+        android:src="@drawable/eventscalendar_icon"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:id="@+id/eventscalendar_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@+id/eventscalendar_icon"
+        android:layout_alignTop="@+id/eventscalendar_icon"
+        android:text="@string/eventscalendar"
+        android:textColor="#ffffff"
+        android:textSize="15dip"
+        android:textStyle="normal" />
+</RelativeLayout>
