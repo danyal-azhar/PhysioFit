@@ -12,7 +12,7 @@ You can setup this project by using android studio.
 - Connect an android device with your machine, setup your mobile device with android studio
 - Click on Build button to build/run the project and run this application on your android device/phone
 
-We used Samsung S8 plus with Snapdragon 835 to test and develope this application.
+We used Samsung S8 plus with Snapdragon 835 and Samsung A71 to test and develope this application.
 
 
 
