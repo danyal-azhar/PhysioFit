@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ezbarcurl.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\ezbarcurl.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_posenet.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_posenet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barbellbenchpress.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\barbellbenchpress.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_squats1.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\squats1.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoulderinter.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\shoulderinter.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chestinter.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\chestinter.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_double_arrow_24.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\ic_baseline_double_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-v24\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backbeginner.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\backbeginner.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_legpress.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\legpress.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chest.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_chest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\action.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tricepclosepushups.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\tricepclosepushups.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoulderbeginner.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\shoulderbeginner.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_customsets_popup.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\customsets_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chestcustom.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_chestcustom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_arms.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_arms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armsprofessional.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\armsprofessional.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_legsbeginner.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\legsbeginner.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chestbeginner.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\chestbeginner.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoulderpro.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\shoulderpro.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_weight_popup.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\weight_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_popup_hide.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\anim\\popup_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_overheadpress.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\overheadpress.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_maintopbackground.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-hdpi\\maintopbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_watchvideo.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\watchvideo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lunges.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\lunges.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_legspro.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\legspro.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bmi_popup.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\bmi_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dumbbellflys.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\dumbbellflys.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_legsinter.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\legsinter.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shoulders.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_shoulders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dumbbellbicepcurl.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\dumbbellbicepcurl.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dumbbellshoulderpress.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\dumbbellshoulderpress.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shouldercustom.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_shouldercustom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_backcustom.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_backcustom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_height_popup.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\height_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armsintermediate.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\armsintermediate.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_armscustom.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_armscustom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pushups.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\pushups.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_legs.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_legs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_activity.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundbutton.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\roundbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seatedtriceppress.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\seatedtriceppress.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_armsbeginner.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\armsbeginner.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_legscustom.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_legscustom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seatedrowing.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\seatedrowing.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_test.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backinter.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\backinter.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_back.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\activity_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hammercurl.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\hammercurl.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.jpg.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_camera.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_popup_show.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\anim\\popup_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backlatpulldown.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\backlatpulldown.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backpro.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\backpro.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashback.PNG.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\splashback.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chinups.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\chinups.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_loadingstorage.json.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\raw\\loadingstorage.json"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chestpro.webp.flat",
+        "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\Final Eval PhysiFit\\android\\app\\src\\main\\res\\drawable\\chestpro.webp"
+    }
+]

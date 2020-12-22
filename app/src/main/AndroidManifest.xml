@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.tensorflow.lite.examples.posenet">
+
+    <uses-sdk />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="PHYSIOFIT"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Posenet">
+
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.BackActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.ShoulderActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.ChestActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.LegsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.ArmsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.ArmsCustomActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.LegsCustomActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.ChestCustomActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.ShoulderCustomActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.BackCustomActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="org.tensorflow.lite.fyp.physiofit.TestActivity"
+            android:exported="true"
+            android:label="@string/tfe_pn_app_name"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="org.tensorflow.lite.fyp.physiofit.CameraActivity"
+            android:exported="true"
+            android:label="@string/tfe_pn_app_name"
+            android:screenOrientation="portrait"/>
+        <activity android:name="org.tensorflow.lite.fyp.physiofit.java.MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        <activity
+            android:name="org.tensorflow.lite.fyp.physiofit.java.SplashActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
