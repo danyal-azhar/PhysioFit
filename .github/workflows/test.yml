@@ -31,9 +31,7 @@ jobs:
           icacls "$sshPath\id_rsa" /inheritance:r /grant:r "$($env:USERNAME):(F)" /c
 
           # Start the ssh-agent service and add the private key
-          if (-Not (Get-Service -Name ssh-agent -ErrorAction SilentlyContinue)) {
-            Start-Service ssh-agent
-          }
+          Start-Process -FilePath "C:\Windows\System32\OpenSSH\ssh-agent.exe" -ArgumentList "ssh-agent.exe"
           ssh-add $sshPath\id_rsa
 
       - name: SSH and create file on the target server
