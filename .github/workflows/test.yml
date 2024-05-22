@@ -22,19 +22,9 @@ jobs:
           if (-Not (Test-Path -Path $sshPath)) {
             New-Item -ItemType Directory -Path $sshPath
           }
-
-          # Save the SSH private key to a file
-          $privateKey = "${{ secrets.SSH_PRIVATE_KEY }}"
-          $privateKey | Out-File -FilePath "$sshPath\id_rsa" -Encoding ascii
-
-          # Ensure the private key file has the correct permissions
-          icacls "$sshPath\id_rsa" /inheritance:r /grant:r "$($env:USERNAME):(F)" /c
-
-          # Start the ssh-agent service and add the private key
-          Start-Process -FilePath "C:\Windows\System32\OpenSSH\ssh-agent.exe" -ArgumentList "ssh-agent.exe"
-          ssh-add $sshPath\id_rsa
+          Set-Content -Path "$sshPath\id_rsa" -Value "${{ secrets.SSH_PRIVATE_KEY }}"
+          $env:GIT_SSH_COMMAND = "ssh -o StrictHostKeyChecking=no -i $sshPath\id_rsa"
 
       - name: SSH and create file on the target server
         run: |
-          ssh -o StrictHostKeyChecking=no ec2-user@ec2-54-92-210-164.compute-1.amazonaws.com "echo 'Danyal is my name' > /home/ec2-user/file.txt"
-        shell: bash
+          ssh ec2-user@ec2-54-92-210-164.compute-1.amazonaws.com "echo 'Danyal is my name' > /home/ec2-user/file.txt"
