@@ -7,11 +7,21 @@ on:
   pull_request:
     branches:
       - main
-
 jobs:
   build:
     runs-on: self-hosted
-
     steps:
       - name: Echo name
         run: echo "Danyal is my name"
+
+      - name: Set up SSH
+        run: |
+          mkdir -p $env:USERPROFILE\.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > $env:USERPROFILE\.ssh\id_rsa
+          (Get-Content $env:USERPROFILE\.ssh\id_rsa) | Set-Content -NoNewline $env:USERPROFILE\.ssh\id_rsa
+          ssh-add $env:USERPROFILE\.ssh\id_rsa
+
+      - name: SSH and create file on the target server
+        run: |
+          ssh ec2-user@ec2-54-92-210-164.compute-1.amazonaws.com "echo 'Danyal is my name' > /home/ec2-user/file.txt"
+        shell: bash
