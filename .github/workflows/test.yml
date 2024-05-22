@@ -17,13 +17,22 @@ jobs:
 
       - name: Set up SSH
         run: |
+          # Check if .ssh directory exists, create if it does not
           if (-Not (Test-Path -Path $env:USERPROFILE\.ssh)) {
             New-Item -ItemType Directory -Path $env:USERPROFILE\.ssh
           }
+
+          # Save the SSH private key to a file
           $privateKey = "${{ secrets.SSH_PRIVATE_KEY }}"
           $privateKey | Out-File -FilePath "$env:USERPROFILE\.ssh\id_rsa" -Encoding ascii
-          icacls "$env:USERPROFILE\.ssh\id_rsa" /inheritance:r /grant:r $env:USERNAME:F /c
-          Start-Service ssh-agent
+
+          # Set the correct permissions on the private key file
+          icacls "$env:USERPROFILE\.ssh\id_rsa" /inheritance:r /grant $env:USERNAME:F /c
+
+          # Start the ssh-agent service and add the private key
+          if (-Not (Get-Service -Name ssh-agent).Status -eq 'Running') {
+            Start-Service ssh-agent
+          }
           ssh-add $env:USERPROFILE\.ssh\id_rsa
 
       - name: SSH and create file on the target server
