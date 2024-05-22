@@ -18,7 +18,7 @@ jobs:
 
       - name: Set up SSH
         run: |
-          $sshPath = "C:\Users\Administrator\ssh"
+          $sshPath = "C:\Users\Administrator\.ssh"
           if (-Not (Test-Path -Path $sshPath)) {
             New-Item -ItemType Directory -Path $sshPath
           }
