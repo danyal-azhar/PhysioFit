@@ -7,6 +7,7 @@ on:
   pull_request:
     branches:
       - main
+
 jobs:
   build:
     runs-on: self-hosted
@@ -16,12 +17,16 @@ jobs:
 
       - name: Set up SSH
         run: |
-          mkdir -p $env:USERPROFILE\.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > $env:USERPROFILE\.ssh\id_rsa
-          (Get-Content $env:USERPROFILE\.ssh\id_rsa) | Set-Content -NoNewline $env:USERPROFILE\.ssh\id_rsa
+          if (-Not (Test-Path -Path $env:USERPROFILE\.ssh)) {
+            New-Item -ItemType Directory -Path $env:USERPROFILE\.ssh
+          }
+          $privateKey = "${{ secrets.SSH_PRIVATE_KEY }}"
+          $privateKey | Out-File -FilePath "$env:USERPROFILE\.ssh\id_rsa" -Encoding ascii
+          icacls "$env:USERPROFILE\.ssh\id_rsa" /inheritance:r /grant:r $env:USERNAME:F /c
+          Start-Service ssh-agent
           ssh-add $env:USERPROFILE\.ssh\id_rsa
 
       - name: SSH and create file on the target server
         run: |
-          ssh ec2-user@ec2-54-92-210-164.compute-1.amazonaws.com "echo 'Danyal is my name' > /home/ec2-user/file.txt"
+          ssh -o StrictHostKeyChecking=no ec2-user@ec2-54-92-210-164.compute-1.amazonaws.com "echo 'Danyal is my name' > /home/ec2-user/file.txt"
         shell: bash
