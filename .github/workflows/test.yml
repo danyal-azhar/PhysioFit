@@ -7,6 +7,7 @@ on:
   pull_request:
     branches:
       - main
+
 jobs:
   build:
     runs-on: self-hosted
@@ -22,9 +23,11 @@ jobs:
             New-Item -ItemType Directory -Path $sshPath
           }
           Set-Content -Path "$sshPath\id_rsa" -Value "${{ secrets.SSH_PRIVATE_KEY }}"
+          icacls $sshPath\id_rsa /inheritance:r /grant:r "Administrator:F"
           $env:GIT_SSH_COMMAND = "ssh -o StrictHostKeyChecking=no -i $sshPath\id_rsa"
+        shell: powershell
 
-      - name: SSH and create file on the target server
+      - name: SSH and create file on the target Windows server
         run: |
-          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no ec2-user@ec2-54-92-210-164.compute-1.amazonaws.com "echo 'Danyal is my name' > /home/ec2-user/file"
-
+          ssh -i C:\Users\Administrator\.ssh\id_rsa -o StrictHostKeyChecking=no administrator@ec2-54-159-248-34.compute-1.amazonaws.com powershell.exe -Command "echo 'Danyal is my name' > C:\Users\Administrator\file.txt"
+        shell: bash
