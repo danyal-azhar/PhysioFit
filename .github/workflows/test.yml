@@ -28,6 +28,6 @@ jobs:
         shell: powershell
 
       - name: SSH and create file on the target Windows server
+        shell: pwsh
         run: |
-          ssh -i C:\Users\Administrator\.ssh\id_rsa -o StrictHostKeyChecking=no administrator@ec2-54-159-248-34.compute-1.amazonaws.com powershell.exe -Command "echo 'Danyal is my name' > C:\Users\Administrator\file.txt"
-        shell: bash
+          ssh -i C:\Users\Administrator\.ssh\id_rsa -o StrictHostKeyChecking=no administrator@ec2-54-159-248-34.compute-1.amazonaws.com powershell.exe -Command "`"echo 'Danyal is my name' > C:\Users\Administrator\file.txt`""
